@@ -23,7 +23,6 @@ The notebook in this repository was successfully run with:
 - [Python] 2.7.9
 - [NumPy] 1.9.2
 - [Pandas] 0.15.2
-- [SciPy] 0.14.0
 - [matplotlib] 1.4.2
 
 An easy way of installing these dependencies is to install [Anaconda].
