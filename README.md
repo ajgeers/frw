@@ -16,7 +16,7 @@ You can view the notebook [here](http://nbviewer.ipython.org/github/ajgeers/frw/
 
 ```sh
 conda env create -n frw -f environment.yml
-source activate frw
+conda activate frw
 ```
 
 
